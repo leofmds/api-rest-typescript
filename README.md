@@ -1,0 +1,3 @@
+# API REST TypeScript
+Uma API simples utilizando TypeScript e express.js, para demonstrar alguns conceitos básicos sobre a criação de APIs para a disciplina Linguagem de Programação VI do 6º período de Ciência da Computação do UNIFEG.
+
