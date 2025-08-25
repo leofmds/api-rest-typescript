@@ -17,3 +17,14 @@ Para rodar o projeto:
 ```shell
 npm run dev
 ```
+
+## Testes
+Para rodar todos os testes:
+```shell
+npm test
+```
+
+Rodar testes individuais, utilize o parâmetro `testPathPatterns` passando o caminho que deseja testar. Pode ser uma pasta, um arquivo específico, ou uma expressão regular. O exemplo a seguir testará somente o arquivo `tests/userRoutes.test.ts`.
+```shell
+npm test -- --testPathPatterns=/tests/userR
+```
